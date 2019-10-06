@@ -1,0 +1,86 @@
+.rounded {
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#heading {
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+#dashboard_fields {
+    margin-bottom: 30px;
+}
+
+#dashboard_emp_name {
+    margin-bottom: 50px;
+}
+
+.jumbo {
+    padding-left: 50px;
+    padding-bottom: 0px;
+    padding-top: 50px;
+    padding-right: 50px;
+    background-color: white;
+}
+
+#emp_attendance_table {
+    margin-top: 15px;
+}
+
+#table {
+    margin-top: 25px;
+}
+
+#heading-top {
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+
+#title {
+    margin-bottom: 45px;
+}
+
+.btni {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    background-color: orange;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+/* Darker background on mouse-over */
+
+.btni:hover {
+    background-color: red;
+}
+
+.btnupd {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    background-color: grey;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+/* Darker background on mouse-over */
+
+.btnupd:hover {
+    background-color: blue;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#table {
+    margin-top: 25px;
+}
